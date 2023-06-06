@@ -1,0 +1,6 @@
+# Advertising
+# > General
+DOMAIN-KEYWORD,adservice
+
+# > 小寻APP
+URL-REGEX,hye\.comp\.360os.com\/api\/sdkPullAds\.do
